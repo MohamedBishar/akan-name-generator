@@ -4,7 +4,7 @@ This is a simple web application that calculates and displays your Akan name bas
 
 ## Features
 
-- Clean and user-friendly interface
+- Clean and user-friendly interface.
 - Form for inputting birthdate and selecting gender.
 - Depend on the user input.
 - Calculates day of the week using a formula.
