@@ -14,7 +14,6 @@ document.getElementById("akanForm").addEventListener("submit", function (event) 
     const month = parseInt(dateParts[1]);
     const day = parseInt(dateParts[2]);
 
-    // Input validation
     if (day < 1 || day > 31) {
         alert("Day must be between 1 and 31.");
         return;
