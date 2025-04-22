@@ -27,4 +27,6 @@ This is a simple web application that calculates and displays your Akan name bas
 
 1. The user enters their birthdate and selects gender.
 2. JavaScript calculates the day of the week using the formula:
+3. https://akan-name-generator-git-main-mohamed-bishars-projects.vercel.app/
+   
 
